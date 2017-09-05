@@ -1,0 +1,110 @@
+{
+	"foods":[
+	    {
+	        "id": 1, 
+	        "name": "豆捞坊（长寿店）", 
+	        "imgUrl": "/src/images/bs01.jpg", 
+	        "grade": 4, 
+	        "type": "火锅", 
+	        "price": "￥94/人", 
+	        "location": "长寿路", 
+	        "ranking": "长寿路火锅第14名", 
+	        "service": [
+	            "支持预订", 
+	            "支持外卖", 
+	            "买单"
+	        ], 
+	        "preferential": [
+	            {
+	                "name": "卷", 
+	                "icon": "ic1", 
+	                "desp": "89代100元"
+	            }, 
+	            {
+	                "name": "买", 
+	                "icon": "ic2", 
+	                "desp": "买单立享9折"
+	            }
+	        ]
+	    }, 
+	    {
+	        "id": 2, 
+	        "name": "吉野家（长寿店）", 
+	        "imgUrl": "/src/images/bs01.jpg", 
+	        "grade": 3, 
+	        "type": "火锅", 
+	        "price": "￥94/人", 
+	        "location": "长寿路", 
+	        "ranking": "长寿路火锅第14名", 
+	        "service": [
+	            "支持预订", 
+	            "支持外卖", 
+	            "买单"
+	        ], 
+	        "preferential": [
+	            {
+	                "name": "卷", 
+	                "icon": "ic1", 
+	                "desp": "89代100元"
+	            }
+	        ]
+	    }, 
+	    {
+	        "id": 3, 
+	        "name": "比亚森（长寿店）", 
+	        "imgUrl": "/src/images/bs01.jpg", 
+	        "grade": 2, 
+	        "type": "火锅", 
+	        "price": "￥94/人", 
+	        "location": "长寿路", 
+	        "ranking": "长寿路火锅第14名", 
+	        "service": [
+	            "支持预订", 
+	            "支持外卖", 
+	            "买单"
+	        ], 
+	        "preferential": [
+	            {
+	                "name": "买", 
+	                "icon": "ic2", 
+	                "desp": "买单立享9折"
+	            }
+	        ]
+	    }, 
+	    {
+	        "id": 4, 
+	        "name": "大鱼铁板烧（长寿店）", 
+	        "imgUrl": "/src/images/bs01.jpg", 
+	        "grade": 1, 
+	        "type": "火锅", 
+	        "price": "￥94/人", 
+	        "location": "长寿路", 
+	        "ranking": "长寿路火锅第14名", 
+	        "service": [
+	            "支持预订", 
+	            "支持外卖", 
+	            "买单"
+	        ], 
+	        "preferential": [
+	            {
+	                "name": "卷", 
+	                "icon": "ic1", 
+	                "desp": "89代100元"
+	            }, 
+	            {
+	                "name": "买", 
+	                "icon": "ic2", 
+	                "desp": "买单立享9折"
+	            }, 
+	            {
+	                "name": "团", 
+	                "icon": "ic3", 
+	                "desp": "团购价格78"
+	            }
+	        ]
+	    }
+	],
+	"detail": {
+		
+	}
+}
